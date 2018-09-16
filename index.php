@@ -2,6 +2,6 @@
 	
 	echo "Hello! world";
 
-	echo "Hollo! too"
+	echo "Hollo! too";
 
 ?>
