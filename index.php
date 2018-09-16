@@ -6,4 +6,6 @@
 	
 	echo "Test!";
 
+	echo "충돌테스트 edited from local PC";
+
 ?>
