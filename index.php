@@ -12,4 +12,6 @@
 
 	echo "test";
 
+	echo "last test";
+
 ?>
